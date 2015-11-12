@@ -1,8 +1,7 @@
 # code-club
 8 lesson introduction to programming with python or JS.
 
-This document describes fictional 8 lesson structure for teaching basics of programming to upper elementary school students.
-
+This document describes a fictional 8 lesson structure for teaching basics of programming to upper elementary school students.
 
 
 ## Topics of the lessons
@@ -24,7 +23,8 @@ Tools:
 * [Write-a-game](http://write-a-game.herokuapp.com/)
 * Some js based equivalent, what?
 
-Example single lesson structure
+Example of single lesson structure
+
  * Introduction to theory, examples
  * coding and more coding exercises individually
  * going through exercises?
@@ -40,6 +40,7 @@ Key concepts:
 * Simple drawing of lines and turns
 
 Example of excercises
+
 * Draw a box
 * Draw the first letter of your name, or your whole name
 
@@ -76,9 +77,10 @@ Key concepts:
 * this could need a loop based runtime, rather than turtle-kind-of-slow-drawing?
 
 Example of exercises:
+
 * Move a turtle to right, while dodging the obstacles
-* App for 
 * Make turtle move and always change direction when it hits certain x/y values
+* Have array of numbers [0, 3, 2, 5, 8, 10, 2, 1], draw an array of boxes with color responding to the numbers (for example blue for <5, red for >=5) - might need iteration?
 
 
 ### 5. Iteration
@@ -87,10 +89,14 @@ Key concepts:
 * Drawing lots of stuff with big iterations
 * What happens if we add randomization to iterations?
 * Can be done with turtle or loop gfx
+* random size, movement, color etc
 
 Example of exercises
 
 * Drawing lots of stuff
+* Going through array
+* How big number do you get if you add 100 random numbers together?
+* Drawing looping graphics, like a wall of squares
 
 
 ### 6. Controls
@@ -100,6 +106,7 @@ Key concepts:
 * Games as a topic?
 * 
 
+Example of exercises
 
-
+* Drawing lots of stuff
 
