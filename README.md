@@ -5,10 +5,10 @@ This document describes a fictional 8 lesson structure for teaching basics of pr
 
 
 ## Topics of the lessons
-* 1 - Introduction, turtle, syntax
-* 2 - Simple functions, drawing
-* 3 - Functions with parameters, variables
-* 4 - Moving objects, control sequences, boolean logic
+* 1 - Introduction, turtle, syntax - luvut ja laskutoimitukset, booleanit?
+* 2 - Simple functions, drawing - geometria, koordinaatisto(7)
+* 3 - Functions with parameters, variables - funktiot(8)
+* 4 - Moving objects, control sequences, boolean logic - yhtälö&epäyhtälö(9)
 * 5 - Iteration, randomization
 * 6 - Controls and gamification
 * 7 - tbd
@@ -43,6 +43,13 @@ Example of excercises
 
 * Draw a box
 * Draw the first letter of your name, or your whole name
+
+Step by step TODO
+
+* Esittäytyminen, who is who, miksi tehdään näin (tehdään kaikille kouluille, testataan tässä)
+* työkalu, opeta codeclub, eri ikkunat, anna oppilaiden räpläillä parametreja
+* käy läpi mitä komennot tekee oppilaiden kanssa
+* 
 
 
 ### 2. Simple functions
