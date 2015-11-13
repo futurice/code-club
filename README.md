@@ -18,7 +18,7 @@ This document describes a fictional 8 lesson structure for teaching basics of pr
 Tools:
 
 * [Turtle roy](https://turtle-roy.herokuapp.com/) - Simple roy drawing
-* [Code club](https://codeclub.firebaseapp.com/) - Turtle with Python
+* [Code club](https://codeclub.firebaseapp.com/) - Turtle with Python, see in [Github](https://github.com/futurice/PythonInBrowser)
 * [MatterJS physics](http://brm.io/matter-js/) - JS library for physics and game engine stuff
 * [Write-a-game](http://write-a-game.herokuapp.com/)
 * Some js based equivalent, what?
